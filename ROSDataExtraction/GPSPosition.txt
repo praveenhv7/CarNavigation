@@ -1,0 +1,4860 @@
+header: 
+  seq: 426
+  stamp: 
+    secs: 1515079473
+    nsecs: 974610382
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407173333
+longitude: -71.0856373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 427
+  stamp: 
+    secs: 1515079474
+    nsecs: 984661540
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407253333
+longitude: -71.0856533333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 428
+  stamp: 
+    secs: 1515079475
+    nsecs: 994816627
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407413333
+longitude: -71.085664
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 429
+  stamp: 
+    secs: 1515079477
+    nsecs:   4594534
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.340752
+longitude: -71.08568
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 430
+  stamp: 
+    secs: 1515079478
+    nsecs:  15161363
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407626667
+longitude: -71.085696
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 431
+  stamp: 
+    secs: 1515079479
+    nsecs:  24702368
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.340776
+longitude: -71.0857066667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 432
+  stamp: 
+    secs: 1515079480
+    nsecs:  46988689
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407946667
+longitude: -71.0857173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 433
+  stamp: 
+    secs: 1515079481
+    nsecs:  54410339
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3408106667
+longitude: -71.0857173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 426
+  stamp: 
+    secs: 1515079473
+    nsecs: 974610382
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407173333
+longitude: -71.0856373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 427
+  stamp: 
+    secs: 1515079474
+    nsecs: 984661540
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407253333
+longitude: -71.0856533333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 428
+  stamp: 
+    secs: 1515079475
+    nsecs: 994816627
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407413333
+longitude: -71.085664
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 429
+  stamp: 
+    secs: 1515079477
+    nsecs:   4594534
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.340752
+longitude: -71.08568
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 430
+  stamp: 
+    secs: 1515079478
+    nsecs:  15161363
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407626667
+longitude: -71.085696
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 431
+  stamp: 
+    secs: 1515079479
+    nsecs:  24702368
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.340776
+longitude: -71.0857066667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 432
+  stamp: 
+    secs: 1515079480
+    nsecs:  46988689
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3407946667
+longitude: -71.0857173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 433
+  stamp: 
+    secs: 1515079481
+    nsecs:  54410339
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3408106667
+longitude: -71.0857173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 434
+  stamp: 
+    secs: 1515079482
+    nsecs:  64491198
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3408293333
+longitude: -71.0857173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 435
+  stamp: 
+    secs: 1515079483
+    nsecs:  74440527
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3408506667
+longitude: -71.0857173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 436
+  stamp: 
+    secs: 1515079484
+    nsecs:  84478990
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3408746667
+longitude: -71.0857226667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 437
+  stamp: 
+    secs: 1515079485
+    nsecs:  94703482
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3409013333
+longitude: -71.0857333333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 438
+  stamp: 
+    secs: 1515079486
+    nsecs: 104496883
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3409226667
+longitude: -71.0857493333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 439
+  stamp: 
+    secs: 1515079487
+    nsecs: 114570014
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.340944
+longitude: -71.085776
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 440
+  stamp: 
+    secs: 1515079488
+    nsecs: 134371533
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3409706667
+longitude: -71.0858133333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 441
+  stamp: 
+    secs: 1515079489
+    nsecs: 134362966
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3409973333
+longitude: -71.0858506667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 442
+  stamp: 
+    secs: 1515079490
+    nsecs: 154256609
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3410213333
+longitude: -71.085888
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 443
+  stamp: 
+    secs: 1515079491
+    nsecs: 164212416
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341048
+longitude: -71.0859253333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 444
+  stamp: 
+    secs: 1515079492
+    nsecs: 174128972
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341072
+longitude: -71.0859573333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 445
+  stamp: 
+    secs: 1515079493
+    nsecs: 184148754
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341096
+longitude: -71.085984
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 446
+  stamp: 
+    secs: 1515079494
+    nsecs: 203662016
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3411146667
+longitude: -71.086016
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 447
+  stamp: 
+    secs: 1515079495
+    nsecs: 204339921
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3411333333
+longitude: -71.0860373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 448
+  stamp: 
+    secs: 1515079496
+    nsecs: 214053950
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3411493333
+longitude: -71.086064
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 449
+  stamp: 
+    secs: 1515079497
+    nsecs: 224184377
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3411626667
+longitude: -71.08608
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 450
+  stamp: 
+    secs: 1515079498
+    nsecs: 234493825
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341176
+longitude: -71.0861013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 451
+  stamp: 
+    secs: 1515079499
+    nsecs: 246940798
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3411866667
+longitude: -71.0861173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 452
+  stamp: 
+    secs: 1515079500
+    nsecs: 254738291
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3411946667
+longitude: -71.0861226667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 453
+  stamp: 
+    secs: 1515079501
+    nsecs: 264157502
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412
+longitude: -71.0861333333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 454
+  stamp: 
+    secs: 1515079502
+    nsecs: 274158524
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 455
+  stamp: 
+    secs: 1515079503
+    nsecs: 284068596
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 456
+  stamp: 
+    secs: 1515079504
+    nsecs: 294016986
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 457
+  stamp: 
+    secs: 1515079505
+    nsecs: 304205726
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 458
+  stamp: 
+    secs: 1515079506
+    nsecs: 314183806
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 459
+  stamp: 
+    secs: 1515079507
+    nsecs: 333885371
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 460
+  stamp: 
+    secs: 1515079508
+    nsecs: 346672886
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 461
+  stamp: 
+    secs: 1515079509
+    nsecs: 346149067
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 462
+  stamp: 
+    secs: 1515079510
+    nsecs: 363896520
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 463
+  stamp: 
+    secs: 1515079511
+    nsecs: 373854171
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 464
+  stamp: 
+    secs: 1515079512
+    nsecs: 383782438
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 465
+  stamp: 
+    secs: 1515079513
+    nsecs: 394231131
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412026667
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 466
+  stamp: 
+    secs: 1515079514
+    nsecs: 403939603
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412053333
+longitude: -71.086144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 467
+  stamp: 
+    secs: 1515079515
+    nsecs: 413875037
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412106667
+longitude: -71.0861493333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 468
+  stamp: 
+    secs: 1515079516
+    nsecs: 423986753
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412213333
+longitude: -71.0861706667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 469
+  stamp: 
+    secs: 1515079517
+    nsecs: 433763352
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412373333
+longitude: -71.086192
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 470
+  stamp: 
+    secs: 1515079518
+    nsecs: 447638303
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412586667
+longitude: -71.0862186667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 471
+  stamp: 
+    secs: 1515079519
+    nsecs: 453698848
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3412826667
+longitude: -71.086256
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 472
+  stamp: 
+    secs: 1515079520
+    nsecs: 473635960
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3413093333
+longitude: -71.0862933333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 473
+  stamp: 
+    secs: 1515079521
+    nsecs: 493790766
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341336
+longitude: -71.086336
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 474
+  stamp: 
+    secs: 1515079522
+    nsecs: 493518178
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3413653333
+longitude: -71.086368
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 475
+  stamp: 
+    secs: 1515079523
+    nsecs: 503688706
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3413946667
+longitude: -71.0864053333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 476
+  stamp: 
+    secs: 1515079524
+    nsecs: 513990429
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3414266667
+longitude: -71.0864426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 477
+  stamp: 
+    secs: 1515079525
+    nsecs: 523992728
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341456
+longitude: -71.08648
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 478
+  stamp: 
+    secs: 1515079526
+    nsecs: 533779666
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3414773333
+longitude: -71.0865013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 479
+  stamp: 
+    secs: 1515079527
+    nsecs: 546720695
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3414906667
+longitude: -71.0865226667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 480
+  stamp: 
+    secs: 1515079528
+    nsecs: 553797489
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341504
+longitude: -71.0865386667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 481
+  stamp: 
+    secs: 1515079529
+    nsecs: 563545950
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3415173333
+longitude: -71.08656
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 482
+  stamp: 
+    secs: 1515079530
+    nsecs: 573527128
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3415333333
+longitude: -71.086576
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 483
+  stamp: 
+    secs: 1515079531
+    nsecs: 593620644
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3415493333
+longitude: -71.0866026667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 484
+  stamp: 
+    secs: 1515079532
+    nsecs: 593869159
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341568
+longitude: -71.086624
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 485
+  stamp: 
+    secs: 1515079533
+    nsecs: 604051256
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3415893333
+longitude: -71.086656
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 486
+  stamp: 
+    secs: 1515079534
+    nsecs: 623502870
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3416053333
+longitude: -71.0866773333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 487
+  stamp: 
+    secs: 1515079535
+    nsecs: 633468547
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3416213333
+longitude: -71.0866986667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 488
+  stamp: 
+    secs: 1515079536
+    nsecs: 652613990
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3416373333
+longitude: -71.08672
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 489
+  stamp: 
+    secs: 1515079537
+    nsecs: 653505363
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3416506667
+longitude: -71.0867466667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 490
+  stamp: 
+    secs: 1515079538
+    nsecs: 663366613
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3416666667
+longitude: -71.086768
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 491
+  stamp: 
+    secs: 1515079539
+    nsecs: 673455887
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3416826667
+longitude: -71.0867893333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 492
+  stamp: 
+    secs: 1515079540
+    nsecs: 683326696
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341696
+longitude: -71.086816
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 493
+  stamp: 
+    secs: 1515079541
+    nsecs: 693433055
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341712
+longitude: -71.0868373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 494
+  stamp: 
+    secs: 1515079542
+    nsecs: 703515971
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341728
+longitude: -71.086864
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 495
+  stamp: 
+    secs: 1515079543
+    nsecs: 713205265
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3417413333
+longitude: -71.08688
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 496
+  stamp: 
+    secs: 1515079544
+    nsecs: 723185465
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3417546667
+longitude: -71.0869013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 497
+  stamp: 
+    secs: 1515079545
+    nsecs: 747278632
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341768
+longitude: -71.0869173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 498
+  stamp: 
+    secs: 1515079546
+    nsecs: 753183654
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3417813333
+longitude: -71.0869386667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 499
+  stamp: 
+    secs: 1515079547
+    nsecs: 753300461
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3417973333
+longitude: -71.0869653333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 500
+  stamp: 
+    secs: 1515079548
+    nsecs: 773048463
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3418186667
+longitude: -71.086992
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 501
+  stamp: 
+    secs: 1515079549
+    nsecs: 783061608
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34184
+longitude: -71.0870186667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 502
+  stamp: 
+    secs: 1515079550
+    nsecs: 793765869
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3418613333
+longitude: -71.0870453333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 503
+  stamp: 
+    secs: 1515079551
+    nsecs: 803357328
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3418773333
+longitude: -71.0870666667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 504
+  stamp: 
+    secs: 1515079552
+    nsecs: 813148490
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3418906667
+longitude: -71.0870826667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 505
+  stamp: 
+    secs: 1515079553
+    nsecs: 823660857
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341904
+longitude: -71.0870986667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 506
+  stamp: 
+    secs: 1515079554
+    nsecs: 837627996
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419146667
+longitude: -71.0871093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 507
+  stamp: 
+    secs: 1515079555
+    nsecs: 845555587
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419253333
+longitude: -71.08712
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 508
+  stamp: 
+    secs: 1515079556
+    nsecs: 862965695
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419306667
+longitude: -71.0871306667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 509
+  stamp: 
+    secs: 1515079557
+    nsecs: 872842033
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341936
+longitude: -71.0871413333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 510
+  stamp: 
+    secs: 1515079558
+    nsecs: 883230786
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419413333
+longitude: -71.0871466667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 511
+  stamp: 
+    secs: 1515079559
+    nsecs: 893177065
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341944
+longitude: -71.0871466667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 512
+  stamp: 
+    secs: 1515079560
+    nsecs: 903055393
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341944
+longitude: -71.087152
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 513
+  stamp: 
+    secs: 1515079561
+    nsecs: 912890917
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419466667
+longitude: -71.087152
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 514
+  stamp: 
+    secs: 1515079562
+    nsecs: 923106842
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419466667
+longitude: -71.087152
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 515
+  stamp: 
+    secs: 1515079563
+    nsecs: 933273178
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419466667
+longitude: -71.087152
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 516
+  stamp: 
+    secs: 1515079564
+    nsecs: 944617129
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419493333
+longitude: -71.087152
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 517
+  stamp: 
+    secs: 1515079565
+    nsecs: 953185217
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419493333
+longitude: -71.0871573333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 518
+  stamp: 
+    secs: 1515079566
+    nsecs: 962786595
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341952
+longitude: -71.0871626667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 519
+  stamp: 
+    secs: 1515079567
+    nsecs: 972728044
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419573333
+longitude: -71.087168
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 520
+  stamp: 
+    secs: 1515079568
+    nsecs: 992965266
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419653333
+longitude: -71.0871786667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 521
+  stamp: 
+    secs: 1515079570
+    nsecs:   3277561
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3419733333
+longitude: -71.0871893333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 522
+  stamp: 
+    secs: 1515079571
+    nsecs:  13158501
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.341984
+longitude: -71.0872053333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 523
+  stamp: 
+    secs: 1515079572
+    nsecs:  23295185
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3420026667
+longitude: -71.0872213333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 524
+  stamp: 
+    secs: 1515079573
+    nsecs:  32857035
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3420213333
+longitude: -71.0872533333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 525
+  stamp: 
+    secs: 1515079574
+    nsecs:  45192055
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3420426667
+longitude: -71.0872853333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 526
+  stamp: 
+    secs: 1515079575
+    nsecs:  53073188
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342064
+longitude: -71.0873173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 527
+  stamp: 
+    secs: 1515079576
+    nsecs:  62995119
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3420853333
+longitude: -71.0873546667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 528
+  stamp: 
+    secs: 1515079577
+    nsecs:  73236997
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3421093333
+longitude: -71.087392
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 529
+  stamp: 
+    secs: 1515079578
+    nsecs:  83771832
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342136
+longitude: -71.0874293333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 530
+  stamp: 
+    secs: 1515079579
+    nsecs: 102959901
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34216
+longitude: -71.0874666667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 531
+  stamp: 
+    secs: 1515079580
+    nsecs: 112915304
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342184
+longitude: -71.087504
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 532
+  stamp: 
+    secs: 1515079581
+    nsecs: 112554278
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342208
+longitude: -71.0875413333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 533
+  stamp: 
+    secs: 1515079582
+    nsecs: 123280047
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3422266667
+longitude: -71.0875786667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 534
+  stamp: 
+    secs: 1515079583
+    nsecs: 132689187
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3422453333
+longitude: -71.0876266667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 535
+  stamp: 
+    secs: 1515079584
+    nsecs: 152383990
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3422613333
+longitude: -71.08768
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 536
+  stamp: 
+    secs: 1515079585
+    nsecs: 162412391
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3422746667
+longitude: -71.0877386667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 537
+  stamp: 
+    secs: 1515079586
+    nsecs: 172408019
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342288
+longitude: -71.0877973333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 538
+  stamp: 
+    secs: 1515079587
+    nsecs: 183166577
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3423013333
+longitude: -71.087856
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 539
+  stamp: 
+    secs: 1515079588
+    nsecs: 202420964
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3423146667
+longitude: -71.08792
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 540
+  stamp: 
+    secs: 1515079589
+    nsecs: 202411739
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3423253333
+longitude: -71.087984
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 541
+  stamp: 
+    secs: 1515079590
+    nsecs: 212726776
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342336
+longitude: -71.088048
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 542
+  stamp: 
+    secs: 1515079591
+    nsecs: 222288811
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3423493333
+longitude: -71.088112
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 543
+  stamp: 
+    secs: 1515079592
+    nsecs: 232463518
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34236
+longitude: -71.088176
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 544
+  stamp: 
+    secs: 1515079593
+    nsecs: 245560694
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3423706667
+longitude: -71.08824
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 545
+  stamp: 
+    secs: 1515079594
+    nsecs: 252199972
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3423813333
+longitude: -71.088304
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 546
+  stamp: 
+    secs: 1515079595
+    nsecs: 262602252
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342392
+longitude: -71.0883626667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 547
+  stamp: 
+    secs: 1515079596
+    nsecs: 272385536
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424026667
+longitude: -71.0884213333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 548
+  stamp: 
+    secs: 1515079597
+    nsecs: 282285337
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424106667
+longitude: -71.0884746667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 549
+  stamp: 
+    secs: 1515079598
+    nsecs: 292524347
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424213333
+longitude: -71.088528
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 550
+  stamp: 
+    secs: 1515079599
+    nsecs: 302300623
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424293333
+longitude: -71.0885813333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 551
+  stamp: 
+    secs: 1515079600
+    nsecs: 312362201
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34244
+longitude: -71.08864
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 552
+  stamp: 
+    secs: 1515079601
+    nsecs: 322547251
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342448
+longitude: -71.0886986667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 553
+  stamp: 
+    secs: 1515079602
+    nsecs: 344175464
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424586667
+longitude: -71.0887573333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 554
+  stamp: 
+    secs: 1515079603
+    nsecs: 352060842
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424693333
+longitude: -71.0888106667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 555
+  stamp: 
+    secs: 1515079604
+    nsecs: 362319819
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424773333
+longitude: -71.088864
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 556
+  stamp: 
+    secs: 1515079605
+    nsecs: 372172199
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3424853333
+longitude: -71.0889226667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 557
+  stamp: 
+    secs: 1515079606
+    nsecs: 382296095
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342496
+longitude: -71.088976
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 558
+  stamp: 
+    secs: 1515079607
+    nsecs: 392456401
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342504
+longitude: -71.0890293333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 559
+  stamp: 
+    secs: 1515079608
+    nsecs: 402346070
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342512
+longitude: -71.0890826667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 560
+  stamp: 
+    secs: 1515079609
+    nsecs: 412715928
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3425226667
+longitude: -71.0891413333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 561
+  stamp: 
+    secs: 1515079610
+    nsecs: 422101906
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3425333333
+longitude: -71.0892
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 562
+  stamp: 
+    secs: 1515079611
+    nsecs: 432251557
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342544
+longitude: -71.0892586667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 563
+  stamp: 
+    secs: 1515079612
+    nsecs: 444844034
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3425546667
+longitude: -71.0893173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 564
+  stamp: 
+    secs: 1515079613
+    nsecs: 452079614
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3425626667
+longitude: -71.0893813333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 565
+  stamp: 
+    secs: 1515079614
+    nsecs: 461884230
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3425733333
+longitude: -71.0894506667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 566
+  stamp: 
+    secs: 1515079615
+    nsecs: 482185516
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342584
+longitude: -71.0895146667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 567
+  stamp: 
+    secs: 1515079616
+    nsecs: 482283681
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3425946667
+longitude: -71.0895786667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 568
+  stamp: 
+    secs: 1515079617
+    nsecs: 491807670
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426026667
+longitude: -71.0896373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 569
+  stamp: 
+    secs: 1515079618
+    nsecs: 501822263
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426133333
+longitude: -71.0896906667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 570
+  stamp: 
+    secs: 1515079619
+    nsecs: 512296396
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426186667
+longitude: -71.089744
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 571
+  stamp: 
+    secs: 1515079620
+    nsecs: 522461212
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426266667
+longitude: -71.089792
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 572
+  stamp: 
+    secs: 1515079621
+    nsecs: 532519148
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342632
+longitude: -71.0898346667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 573
+  stamp: 
+    secs: 1515079622
+    nsecs: 543730565
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426373333
+longitude: -71.0898826667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 574
+  stamp: 
+    secs: 1515079623
+    nsecs: 551877282
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426453333
+longitude: -71.0899306667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 575
+  stamp: 
+    secs: 1515079624
+    nsecs: 561900854
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426533333
+longitude: -71.089984
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 576
+  stamp: 
+    secs: 1515079625
+    nsecs: 571768494
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426613333
+longitude: -71.0900373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 577
+  stamp: 
+    secs: 1515079626
+    nsecs: 591804103
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426693333
+longitude: -71.090064
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 578
+  stamp: 
+    secs: 1515079627
+    nsecs: 601850363
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342672
+longitude: -71.09008
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 579
+  stamp: 
+    secs: 1515079628
+    nsecs: 611644965
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342672
+longitude: -71.0900853333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 580
+  stamp: 
+    secs: 1515079629
+    nsecs: 621677157
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342672
+longitude: -71.0900853333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 581
+  stamp: 
+    secs: 1515079630
+    nsecs: 631800382
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342672
+longitude: -71.0900853333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 582
+  stamp: 
+    secs: 1515079631
+    nsecs: 651544254
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342672
+longitude: -71.0900853333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 583
+  stamp: 
+    secs: 1515079632
+    nsecs: 651567466
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3426773333
+longitude: -71.0901013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 584
+  stamp: 
+    secs: 1515079633
+    nsecs: 661768513
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342688
+longitude: -71.0901226667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 585
+  stamp: 
+    secs: 1515079634
+    nsecs: 671491532
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342696
+longitude: -71.0901493333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 586
+  stamp: 
+    secs: 1515079635
+    nsecs: 682126624
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3427173333
+longitude: -71.0901706667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 587
+  stamp: 
+    secs: 1515079636
+    nsecs: 691456274
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3427493333
+longitude: -71.0901813333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 588
+  stamp: 
+    secs: 1515079637
+    nsecs: 711421129
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3427866667
+longitude: -71.0901866667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 589
+  stamp: 
+    secs: 1515079638
+    nsecs: 711485589
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.342832
+longitude: -71.0901813333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 590
+  stamp: 
+    secs: 1515079639
+    nsecs: 731487595
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3428826667
+longitude: -71.0901706667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 591
+  stamp: 
+    secs: 1515079640
+    nsecs: 744593816
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3429386667
+longitude: -71.09016
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 592
+  stamp: 
+    secs: 1515079641
+    nsecs: 751336328
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3429946667
+longitude: -71.090144
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 593
+  stamp: 
+    secs: 1515079642
+    nsecs: 761385385
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343048
+longitude: -71.0901333333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 594
+  stamp: 
+    secs: 1515079643
+    nsecs: 771367734
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3430986667
+longitude: -71.0901173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 595
+  stamp: 
+    secs: 1515079644
+    nsecs: 781465001
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3431493333
+longitude: -71.0901013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 596
+  stamp: 
+    secs: 1515079645
+    nsecs: 791618998
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3431973333
+longitude: -71.0900853333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 597
+  stamp: 
+    secs: 1515079646
+    nsecs: 801474581
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3432426667
+longitude: -71.0900693333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 598
+  stamp: 
+    secs: 1515079647
+    nsecs: 821335095
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3432826667
+longitude: -71.090064
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 599
+  stamp: 
+    secs: 1515079648
+    nsecs: 821889790
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3433226667
+longitude: -71.090048
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 600
+  stamp: 
+    secs: 1515079649
+    nsecs: 843991579
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3433573333
+longitude: -71.0900426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 601
+  stamp: 
+    secs: 1515079650
+    nsecs: 844701052
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343392
+longitude: -71.090032
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 602
+  stamp: 
+    secs: 1515079651
+    nsecs: 861302232
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343424
+longitude: -71.0900266667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 603
+  stamp: 
+    secs: 1515079652
+    nsecs: 871312164
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343456
+longitude: -71.090016
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 604
+  stamp: 
+    secs: 1515079653
+    nsecs: 881283389
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3434853333
+longitude: -71.0900106667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 605
+  stamp: 
+    secs: 1515079654
+    nsecs: 891663639
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34352
+longitude: -71.09
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 606
+  stamp: 
+    secs: 1515079655
+    nsecs: 901463456
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435546667
+longitude: -71.0899893333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 607
+  stamp: 
+    secs: 1515079656
+    nsecs: 911683418
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435946667
+longitude: -71.0899786667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 608
+  stamp: 
+    secs: 1515079657
+    nsecs: 931914147
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343632
+longitude: -71.089968
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 609
+  stamp: 
+    secs: 1515079658
+    nsecs: 944392140
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3436693333
+longitude: -71.0899573333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 610
+  stamp: 
+    secs: 1515079659
+    nsecs: 943524884
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343704
+longitude: -71.089952
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 611
+  stamp: 
+    secs: 1515079660
+    nsecs: 951133854
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3437386667
+longitude: -71.0899413333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 612
+  stamp: 
+    secs: 1515079661
+    nsecs: 961084985
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3437706667
+longitude: -71.089936
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 613
+  stamp: 
+    secs: 1515079662
+    nsecs: 971103690
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343808
+longitude: -71.0899306667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 614
+  stamp: 
+    secs: 1515079663
+    nsecs: 981968071
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438373333
+longitude: -71.08992
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 615
+  stamp: 
+    secs: 1515079665
+    nsecs:   1294366
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438613333
+longitude: -71.0899146667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 616
+  stamp: 
+    secs: 1515079666
+    nsecs:  11376830
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438666667
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 617
+  stamp: 
+    secs: 1515079667
+    nsecs:  21108329
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343872
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 618
+  stamp: 
+    secs: 1515079668
+    nsecs:  20969986
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343872
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 619
+  stamp: 
+    secs: 1515079669
+    nsecs:  44013683
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438746667
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 620
+  stamp: 
+    secs: 1515079670
+    nsecs:  50913816
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 621
+  stamp: 
+    secs: 1515079671
+    nsecs:  61033057
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 622
+  stamp: 
+    secs: 1515079672
+    nsecs:  70727970
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 623
+  stamp: 
+    secs: 1515079673
+    nsecs:  80967162
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 624
+  stamp: 
+    secs: 1515079674
+    nsecs:  90794604
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 625
+  stamp: 
+    secs: 1515079675
+    nsecs: 100858375
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 626
+  stamp: 
+    secs: 1515079676
+    nsecs: 111034744
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 627
+  stamp: 
+    secs: 1515079677
+    nsecs: 120977847
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 628
+  stamp: 
+    secs: 1515079678
+    nsecs: 144260101
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 629
+  stamp: 
+    secs: 1515079679
+    nsecs: 148547116
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 630
+  stamp: 
+    secs: 1515079680
+    nsecs: 160746862
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 631
+  stamp: 
+    secs: 1515079681
+    nsecs: 170673225
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 632
+  stamp: 
+    secs: 1515079682
+    nsecs: 182310937
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 633
+  stamp: 
+    secs: 1515079683
+    nsecs: 200706021
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 634
+  stamp: 
+    secs: 1515079684
+    nsecs: 201269480
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 635
+  stamp: 
+    secs: 1515079685
+    nsecs: 210795739
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 636
+  stamp: 
+    secs: 1515079686
+    nsecs: 220997878
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 637
+  stamp: 
+    secs: 1515079687
+    nsecs: 231267371
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 638
+  stamp: 
+    secs: 1515079688
+    nsecs: 250245254
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 639
+  stamp: 
+    secs: 1515079689
+    nsecs: 250655990
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 640
+  stamp: 
+    secs: 1515079690
+    nsecs: 260682128
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438773333
+longitude: -71.0899093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 641
+  stamp: 
+    secs: 1515079691
+    nsecs: 270517044
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343888
+longitude: -71.089904
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 642
+  stamp: 
+    secs: 1515079692
+    nsecs: 281102346
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343904
+longitude: -71.0898933333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 643
+  stamp: 
+    secs: 1515079693
+    nsecs: 300538380
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439226667
+longitude: -71.0898773333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 644
+  stamp: 
+    secs: 1515079694
+    nsecs: 310711641
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439413333
+longitude: -71.0898506667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 645
+  stamp: 
+    secs: 1515079695
+    nsecs: 320824393
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439493333
+longitude: -71.0898133333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 646
+  stamp: 
+    secs: 1515079696
+    nsecs: 330797351
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439546667
+longitude: -71.0897653333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 647
+  stamp: 
+    secs: 1515079697
+    nsecs: 343032664
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439573333
+longitude: -71.0897173333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 648
+  stamp: 
+    secs: 1515079698
+    nsecs: 350399988
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439573333
+longitude: -71.0896586667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 649
+  stamp: 
+    secs: 1515079699
+    nsecs: 360540948
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439493333
+longitude: -71.0895946667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 650
+  stamp: 
+    secs: 1515079700
+    nsecs: 370699604
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439386667
+longitude: -71.08952
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 651
+  stamp: 
+    secs: 1515079701
+    nsecs: 381046436
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439253333
+longitude: -71.08944
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 652
+  stamp: 
+    secs: 1515079702
+    nsecs: 391270540
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439146667
+longitude: -71.0893546667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 653
+  stamp: 
+    secs: 1515079703
+    nsecs: 410248326
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343904
+longitude: -71.089264
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 654
+  stamp: 
+    secs: 1515079704
+    nsecs: 410519645
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438906667
+longitude: -71.089168
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 655
+  stamp: 
+    secs: 1515079705
+    nsecs: 420354275
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438746667
+longitude: -71.0890613333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 656
+  stamp: 
+    secs: 1515079706
+    nsecs: 443272653
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438613333
+longitude: -71.0889546667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 657
+  stamp: 
+    secs: 1515079707
+    nsecs: 443619979
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438426667
+longitude: -71.0888533333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 658
+  stamp: 
+    secs: 1515079708
+    nsecs: 460101901
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438266667
+longitude: -71.0887466667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 659
+  stamp: 
+    secs: 1515079709
+    nsecs: 471465085
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438106667
+longitude: -71.0886453333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 660
+  stamp: 
+    secs: 1515079710
+    nsecs: 480334938
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343792
+longitude: -71.088544
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 661
+  stamp: 
+    secs: 1515079711
+    nsecs: 490466238
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343776
+longitude: -71.0884426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 662
+  stamp: 
+    secs: 1515079712
+    nsecs: 500459220
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3437573333
+longitude: -71.0883413333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 663
+  stamp: 
+    secs: 1515079713
+    nsecs: 510864800
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3437413333
+longitude: -71.0882453333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 664
+  stamp: 
+    secs: 1515079714
+    nsecs: 532456293
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343728
+longitude: -71.0881493333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 665
+  stamp: 
+    secs: 1515079715
+    nsecs: 532014475
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343712
+longitude: -71.0880586667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 666
+  stamp: 
+    secs: 1515079716
+    nsecs: 543128507
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3436986667
+longitude: -71.0879733333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 667
+  stamp: 
+    secs: 1515079717
+    nsecs: 550270701
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3436853333
+longitude: -71.087888
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 668
+  stamp: 
+    secs: 1515079718
+    nsecs: 570150797
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343672
+longitude: -71.087808
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 669
+  stamp: 
+    secs: 1515079719
+    nsecs: 580150262
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3436586667
+longitude: -71.0877333333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 670
+  stamp: 
+    secs: 1515079720
+    nsecs: 591398106
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3436453333
+longitude: -71.087664
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 671
+  stamp: 
+    secs: 1515079721
+    nsecs: 600345853
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343632
+longitude: -71.0875946667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 672
+  stamp: 
+    secs: 1515079722
+    nsecs: 610457903
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3436213333
+longitude: -71.0875306667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 673
+  stamp: 
+    secs: 1515079723
+    nsecs: 620519286
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343608
+longitude: -71.0874666667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 674
+  stamp: 
+    secs: 1515079724
+    nsecs: 631792006
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435973333
+longitude: -71.087408
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 675
+  stamp: 
+    secs: 1515079725
+    nsecs: 647390569
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435866667
+longitude: -71.0873493333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 676
+  stamp: 
+    secs: 1515079726
+    nsecs: 650702100
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343576
+longitude: -71.0872906667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 677
+  stamp: 
+    secs: 1515079727
+    nsecs: 660082658
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435653333
+longitude: -71.087232
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 678
+  stamp: 
+    secs: 1515079728
+    nsecs: 670434121
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435546667
+longitude: -71.0871733333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 679
+  stamp: 
+    secs: 1515079729
+    nsecs: 680047602
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343544
+longitude: -71.0871253333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 680
+  stamp: 
+    secs: 1515079730
+    nsecs: 690655685
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435306667
+longitude: -71.087072
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 681
+  stamp: 
+    secs: 1515079731
+    nsecs: 700115943
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34352
+longitude: -71.0870293333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 682
+  stamp: 
+    secs: 1515079732
+    nsecs: 710800762
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435093333
+longitude: -71.0869813333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 683
+  stamp: 
+    secs: 1515079733
+    nsecs: 720333633
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343504
+longitude: -71.0869386667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 684
+  stamp: 
+    secs: 1515079734
+    nsecs: 731309547
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435093333
+longitude: -71.0869013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 685
+  stamp: 
+    secs: 1515079735
+    nsecs: 743084695
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435226667
+longitude: -71.0868746667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 686
+  stamp: 
+    secs: 1515079736
+    nsecs: 764271652
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435413333
+longitude: -71.0868533333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 687
+  stamp: 
+    secs: 1515079737
+    nsecs: 765300523
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435653333
+longitude: -71.0868426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 688
+  stamp: 
+    secs: 1515079738
+    nsecs: 780159399
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3435946667
+longitude: -71.0868373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 689
+  stamp: 
+    secs: 1515079739
+    nsecs: 790751034
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343624
+longitude: -71.086848
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 690
+  stamp: 
+    secs: 1515079740
+    nsecs: 800024596
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343656
+longitude: -71.0868586667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 691
+  stamp: 
+    secs: 1515079741
+    nsecs: 810501678
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343688
+longitude: -71.0868693333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 692
+  stamp: 
+    secs: 1515079742
+    nsecs: 820318160
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3437226667
+longitude: -71.08688
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 693
+  stamp: 
+    secs: 1515079743
+    nsecs: 842804065
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3437573333
+longitude: -71.0868906667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 694
+  stamp: 
+    secs: 1515079744
+    nsecs: 842400440
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343792
+longitude: -71.0869013333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 695
+  stamp: 
+    secs: 1515079745
+    nsecs: 860012779
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3438266667
+longitude: -71.086912
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 696
+  stamp: 
+    secs: 1515079746
+    nsecs: 870295297
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343856
+longitude: -71.0869226667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 697
+  stamp: 
+    secs: 1515079747
+    nsecs: 880494130
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343888
+longitude: -71.0869333333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 698
+  stamp: 
+    secs: 1515079748
+    nsecs: 890549640
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343912
+longitude: -71.086944
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 699
+  stamp: 
+    secs: 1515079749
+    nsecs: 900125067
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439306667
+longitude: -71.0869546667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 700
+  stamp: 
+    secs: 1515079750
+    nsecs: 910309248
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.343944
+longitude: -71.08696
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 701
+  stamp: 
+    secs: 1515079751
+    nsecs: 920047047
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439546667
+longitude: -71.0869653333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 702
+  stamp: 
+    secs: 1515079752
+    nsecs: 941088810
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439653333
+longitude: -71.0869706667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 703
+  stamp: 
+    secs: 1515079753
+    nsecs: 949973010
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439706667
+longitude: -71.086976
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 704
+  stamp: 
+    secs: 1515079754
+    nsecs: 959792756
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439813333
+longitude: -71.086976
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 705
+  stamp: 
+    secs: 1515079755
+    nsecs: 959852740
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3439946667
+longitude: -71.0869813333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 706
+  stamp: 
+    secs: 1515079756
+    nsecs: 979880087
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3440106667
+longitude: -71.0869866667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 707
+  stamp: 
+    secs: 1515079757
+    nsecs: 989865115
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3440293333
+longitude: -71.086992
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 708
+  stamp: 
+    secs: 1515079759
+    nsecs:    144801
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344048
+longitude: -71.0869973333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 709
+  stamp: 
+    secs: 1515079760
+    nsecs:  11518438
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344064
+longitude: -71.087008
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 710
+  stamp: 
+    secs: 1515079761
+    nsecs:  20110726
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.34408
+longitude: -71.0870133333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 711
+  stamp: 
+    secs: 1515079762
+    nsecs:  31097938
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344096
+longitude: -71.0870186667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 712
+  stamp: 
+    secs: 1515079763
+    nsecs:  41829856
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3441093333
+longitude: -71.0870293333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 713
+  stamp: 
+    secs: 1515079764
+    nsecs:  50168619
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3441253333
+longitude: -71.0870293333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 714
+  stamp: 
+    secs: 1515079765
+    nsecs:  60095511
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3441413333
+longitude: -71.08704
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 715
+  stamp: 
+    secs: 1515079766
+    nsecs:  79906360
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3441653333
+longitude: -71.0870506667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 716
+  stamp: 
+    secs: 1515079767
+    nsecs:  90289105
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3441893333
+longitude: -71.0870613333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 717
+  stamp: 
+    secs: 1515079768
+    nsecs: 100229632
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344216
+longitude: -71.0870773333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 718
+  stamp: 
+    secs: 1515079769
+    nsecs: 110154673
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3442373333
+longitude: -71.087088
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 719
+  stamp: 
+    secs: 1515079770
+    nsecs: 120465102
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3442506667
+longitude: -71.0870933333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 720
+  stamp: 
+    secs: 1515079771
+    nsecs: 131187989
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3442613333
+longitude: -71.0870986667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 721
+  stamp: 
+    secs: 1515079772
+    nsecs: 141405197
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3442666667
+longitude: -71.087104
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 722
+  stamp: 
+    secs: 1515079773
+    nsecs: 150341947
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3442853333
+longitude: -71.0871093333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 723
+  stamp: 
+    secs: 1515079774
+    nsecs: 159989850
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3443093333
+longitude: -71.08712
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 724
+  stamp: 
+    secs: 1515079775
+    nsecs: 169987214
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344344
+longitude: -71.087136
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 725
+  stamp: 
+    secs: 1515079776
+    nsecs: 180020102
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344384
+longitude: -71.0871573333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 726
+  stamp: 
+    secs: 1515079777
+    nsecs: 199983307
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3444293333
+longitude: -71.0871786667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 727
+  stamp: 
+    secs: 1515079778
+    nsecs: 199980537
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3444666667
+longitude: -71.0871946667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 728
+  stamp: 
+    secs: 1515079779
+    nsecs: 220798490
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344504
+longitude: -71.0872106667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 729
+  stamp: 
+    secs: 1515079780
+    nsecs: 231660643
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445333333
+longitude: -71.0872266667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 730
+  stamp: 
+    secs: 1515079781
+    nsecs: 241483913
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445546667
+longitude: -71.087232
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 731
+  stamp: 
+    secs: 1515079782
+    nsecs: 249993635
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445626667
+longitude: -71.0872373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 732
+  stamp: 
+    secs: 1515079783
+    nsecs: 260056207
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445706667
+longitude: -71.0872373333
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 733
+  stamp: 
+    secs: 1515079784
+    nsecs: 269972375
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445733333
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 734
+  stamp: 
+    secs: 1515079785
+    nsecs: 280424725
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344576
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 735
+  stamp: 
+    secs: 1515079786
+    nsecs: 290423467
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344576
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 736
+  stamp: 
+    secs: 1515079787
+    nsecs: 300775358
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445786667
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 737
+  stamp: 
+    secs: 1515079788
+    nsecs: 310247690
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.3445813333
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 738
+  stamp: 
+    secs: 1515079789
+    nsecs: 320706106
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344584
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 739
+  stamp: 
+    secs: 1515079790
+    nsecs: 340919397
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344584
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 740
+  stamp: 
+    secs: 1515079791
+    nsecs: 348470461
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344584
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
+header: 
+  seq: 741
+  stamp: 
+    secs: 1515079792
+    nsecs: 360157146
+  frame_id: ''
+status: 
+  status: 0
+  service: 1
+latitude: 42.344584
+longitude: -71.0872426667
+altitude: 6.0
+position_covariance: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+position_covariance_type: 0
+********
